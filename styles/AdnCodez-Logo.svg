@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="75" width="140">
+  <path fill="none" d="M0 59h16v16H0z"/>
+  <g word-spacing="0" letter-spacing="0">
+    <text stroke-width=".11233" transform="matrix(7.49148 0 0 6.27842 1.34746 -34.66)" font-size="4.4933" y="16.46109" x="12.02552" fill="#20ede7">
+      <tspan font-family="Rhesmanisa" y="16.46109" x="12.02552">Codez</tspan>
+    </text>
+    <text stroke-width=".31861" transform="matrix(8.80597 0 0 5.34102 1.34746 -34.66)" font-size="12.745" y="16.91267" x="2.69551" fill="#ff7900">
+      <tspan font-family="Rhesmanisa" y="16.91267" x="2.69551">Adn</tspan>
+    </text>
+    <text stroke-width=".11233" transform="matrix(7.49148 0 0 6.27842 1.34746 -34.66)" font-size="4.4933" y="16.40601" x="12.02552" fill="#20ede7">
+      <tspan font-family="Rhesmanisa" y="16.40601" x="12.02552">Codez</tspan>
+    </text>
+    <text stroke-width=".3116" transform="matrix(9.00472 0 0 5.2234 1.34746 -34.66)" font-size="12.464" y="17.20323" x="2.64806" fill="#ff7900">
+      <tspan font-family="Rhesmanisa" y="17.20323" x="2.64806">Adn</tspan>
+    </text>
+  </g>
+</svg>
