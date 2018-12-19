@@ -114,9 +114,9 @@
             </span>
             <li>HTML</li>
             <li>CSS</li>
+            <li>JavaScript</li>
             <li>SASS</li>
             <li>Bootstrap</li>
-            <li>JavaScript</li>
         </div>
         <br>
         <div>
@@ -169,7 +169,7 @@
                 <polygon fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="40,1 17,37 31,37               24,63 50,27 36,27 "></polygon>
                 </svg>
                 <div class="service-title">Extreme responsiveness</div>
-                <div class="service-description">responsive, fast and simple design</div>
+                <div class="service-description">Responsive, fast and simple design</div>
             </div>
 
             <div class="col s12 l4 big-margin-on-medium-and-down">
@@ -180,7 +180,7 @@
                     <circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="35" r="2"></circle>
                 </svg>
                 <div class="service-title">Performance optimizations</div>
-                <div class="service-description">Including search engine optimizations</div>
+                <div class="service-description">Including search engine optimization</div>
             </div>
         </div>
         <div class="row">
@@ -285,7 +285,7 @@
                     />
                 </div>
                 <div class="content">
-                    <div class="title tlt">Crypto converter</div>
+                    <div class="title tlt">Crypto Converter</div>
                 </div>
                 </a>
             </div>
